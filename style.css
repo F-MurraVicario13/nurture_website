@@ -130,8 +130,9 @@ section {
     max-width: 120px;
     height: auto;
 }.nav-logo-mobile {
-    max-width: 100px; /* Smaller size for mobile */
+    max-width: 200px; /* Smaller size for mobile */
     height: auto;
+    margin:auto;
 }
 .nav-logo-desktop {
     max-width: 140px; /* Larger size for desktop */
