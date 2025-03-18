@@ -613,6 +613,11 @@ footer small {
 	.navbar-collapse {
 		border-bottom: 1px solid #d7e5d8;
 	}
+.nav-logo-mobile {
+margin: auto;
+/* padding-right: 50px; */
+max-width: 200px;
+}
 
 	.nav-logo-desktop {
 		display: none;
